@@ -4,7 +4,7 @@
 
 ### Add Some Slide Candy
 
-![IMAGE](iCloud Drive/Photos/IMG_8654.jpeg)
+![IMAGE](assets/img/presentation.png)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
@@ -14,7 +14,7 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](iCloud Drive/Photos/IMG_8654.jpeg)
+![IMAGE](assets/img/presentation.png)
 @snapend
 
 @snap[south span-100]
