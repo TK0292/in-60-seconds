@@ -14,7 +14,7 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](iCloud Drive/Photos/IMG_8654.jpeg)
 @snapend
 
 @snap[south span-100]
